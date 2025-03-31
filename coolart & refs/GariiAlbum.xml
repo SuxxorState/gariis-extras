@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GariiAlbum.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="albumGarii0000" x="0" y="0" width="310" height="357"/>
+	<SubTexture name="albumGarii0001" x="0" y="359" width="310" height="357"/>
+</TextureAtlas>

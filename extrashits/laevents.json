@@ -1,0 +1,113 @@
+{
+	"song": {
+		"events": [
+			[
+				13846.1538461538,
+				[
+					[
+						"Play Animation",
+						"equipGUN",
+						"dad"
+					]
+				]
+			],
+			[
+				14769.2307692308,
+				[
+					[
+						"Advance Anger",
+						"true",
+						"1"
+					],
+					[
+						"Alt Idle Animation",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				29423.0769230769,
+				[
+					[
+						"Goons Fall",
+						"",
+						""
+					]
+				]
+			],
+			[
+				29538.4615384615,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-side"
+					],
+					[
+						"Advance Anger",
+						"true",
+						"2"
+					]
+				],
+				null,
+				"Side Alt Anim"
+			],
+			[
+				29769.2307692308,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gariigoons"
+					]
+				]
+			],
+			[
+				33230.7692307692,
+				[
+					[
+						"Change Character",
+						"bf",
+						"truckerbf-gf"
+					],
+					[
+						"Play Animation",
+						"catchGF",
+						"bf"
+					],
+					[
+						"Alt Idle Animation",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				58615.3846153846,
+				[
+					[
+						"Play Animation",
+						"raiseGUN",
+						"dad"
+					]
+				]
+			],
+			[
+				59076.9230769231,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-pissed"
+					],
+					[
+						"Advance Anger",
+						"true",
+						"3"
+					]
+				]
+			]
+		]
+	}
+}

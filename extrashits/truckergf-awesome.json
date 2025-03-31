@@ -1,0 +1,36 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "gf twen",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/gf twen",
+	"position": [
+		60,
+		110
+	],
+	"healthicon": "truckgf",
+	"flip_x": false,
+	"healthbar_colors": [
+		197,
+		82,
+		82
+	],
+	"camera_position": [
+		-170,
+		-80
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pointnums.png">
+	<SubTexture name="points 0000" x="0" y="16" width="14" height="7"/>
+	<SubTexture name="zero 0000" x="0" y="1" width="4" height="7"/>
+	<SubTexture name="one 0000" x="5" y="1" width="4" height="7"/>	
+	<SubTexture name="two 0000" x="10" y="1" width="4" height="7"/>
+	<SubTexture name="three 0000" x="15" y="1" width="4" height="7"/>	
+	<SubTexture name="four 0000" x="20" y="1" width="4" height="7"/>
+	<SubTexture name="five 0000" x="0" y="9" width="4" height="7"/>
+	<SubTexture name="six 0000" x="5" y="9" width="4" height="7"/>	
+	<SubTexture name="seven 0000" x="10" y="9" width="4" height="7"/>
+	<SubTexture name="eight 0000" x="15" y="9" width="4" height="7"/>	
+	<SubTexture name="nine 0000" x="20" y="9" width="4" height="7"/>
+</TextureAtlas>

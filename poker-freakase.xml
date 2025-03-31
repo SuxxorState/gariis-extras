@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="poker-freak.png">
+	<!-- yeah the font's name is called poker freak, whatchu gonna do about it? -->
+	<SubTexture name="smiley 0000" x="0" y="0" width="16" height="22"/>
+	<SubTexture name="frowny 0000" x="17" y="0" width="16" height="22"/>
+	<SubTexture name="star 0000" x="34" y="0" width="16" height="22"/>
+	<SubTexture name="heart 0000" x="51" y="0" width="16" height="22"/>
+	<SubTexture name="single eighth 0000" x="68" y="0" width="16" height="22"/>
+	<SubTexture name="diamond 0000" x="85" y="0" width="16" height="22"/>
+	<SubTexture name="club 0000" x="102" y="0" width="16" height="22"/>
+	<SubTexture name="spade 0000" x="119" y="0" width="16" height="22"/>
+	<SubTexture name="double eigth 0000" x="136" y="0" width="16" height="22"/>
+	<SubTexture name="upper kluh 0000" x="153" y="0" width="16" height="22"/>
+	<SubTexture name="lower kluh 0000" x="170" y="0" width="16" height="22"/>
+	<SubTexture name="„ 0000" x="187" y="0" width="16" height="22"/>
+	<SubTexture name="“ 0000" x="204" y="0" width="16" height="22"/>
+	<SubTexture name="” 0000" x="221" y="0" width="16" height="22"/>
+	<SubTexture name="bullet 0000" x="238" y="0" width="16" height="22"/>
+	<SubTexture name="€ 0000" x="255" y="0" width="16" height="22"/>
+	<SubTexture name="Ș 0000" x="272" y="0" width="16" height="22"/>
+	<SubTexture name="ș 0000" x="289" y="0" width="16" height="22"/>
+	<SubTexture name="Ț 0000" x="306" y="0" width="16" height="22"/>
+	<SubTexture name="ț 0000" x="323" y="0" width="16" height="22"/>
+	
+	<SubTexture name="space 0000" x="0" y="23" width="16" height="22"/>
+	<SubTexture name="exclamation 0000" x="17" y="23" width="16" height="22"/>	
+	<SubTexture name="quotations 0000" x="34" y="23" width="16" height="22"/>	
+	<SubTexture name="pound 0000" x="51" y="23" width="16" height="22"/>	
+	<SubTexture name="$ 0000" x="68" y="23" width="16" height="22"/>	
+	<SubTexture name="% 0000" x="85" y="23" width="16" height="22"/>
+	<SubTexture name="ampersand 0000" x="102" y="23" width="16" height="22"/>	
+	<SubTexture name="' 0000" x="119" y="23" width="16" height="22"/>
+	<SubTexture name="( 0000" x="136" y="23" width="16" height="22"/>
+	<SubTexture name=") 0000" x="153" y="23" width="16" height="22"/>
+	<SubTexture name="* 0000" x="170" y="23" width="16" height="22"/>
+	<SubTexture name="plus 0000" x="187" y="23" width="16" height="22"/>	
+	<SubTexture name="comma 0000" x="204" y="23" width="16" height="22"/>
+	<SubTexture name="minus 0000" x="221" y="23" width="16" height="22"/>
+	<SubTexture name="period 0000" x="238" y="23" width="16" height="22"/>
+	<SubTexture name="/ 0000" x="255" y="23" width="16" height="22"/>	
+	<SubTexture name="zero 0000" x="272" y="23" width="16" height="22"/>
+	<SubTexture name="one 0000" x="289" y="23" width="16" height="22"/>	
+	<SubTexture name="two 0000" x="306" y="23" width="16" height="22"/>
+	<SubTexture name="three 0000" x="323" y="23" width="16" height="22"/>	
+	<SubTexture name="four 0000" x="340" y="23" width="16" height="22"/>
+	<SubTexture name="five 0000" x="357" y="23" width="16" height="22"/>
+	<SubTexture name="six 0000" x="374" y="23" width="16" height="22"/>	
+	<SubTexture name="seven 0000" x="391" y="23" width="16" height="22"/>
+	<SubTexture name="eight 0000" x="408" y="23" width="16" height="22"/>	
+	<SubTexture name="nine 0000" x="425" y="23" width="16" height="22"/>
+	<SubTexture name="colon 0000" x="442" y="23" width="16" height="22"/>
+	<SubTexture name="semicolon 0000" x="459" y="23" width="16" height="22"/>
+	<SubTexture name="less than 0000" x="476" y="23" width="16" height="22"/>
+	<SubTexture name="= 0000" x="493" y="23" width="16" height="22"/>
+	<SubTexture name="greater than 0000" x="510" y="23" width="16" height="22"/>
+	<SubTexture name="question 0000" x="527" y="23" width="16" height="22"/>	
+	
+	<SubTexture name="@ 0000" x="0" y="46" width="16" height="22"/>
+	<SubTexture name="A 0000" x="17" y="46" width="16" height="22"/>	
+	<SubTexture name="B 0000" x="34" y="46" width="16" height="22"/>	
+	<SubTexture name="C 0000" x="51" y="46" width="16" height="22"/>	
+	<SubTexture name="D 0000" x="68" y="46" width="16" height="22"/>	
+	<SubTexture name="E 0000" x="85" y="46" width="16" height="22"/>
+	<SubTexture name="F 0000" x="102" y="46" width="16" height="22"/>	
+	<SubTexture name="G 0000" x="119" y="46" width="16" height="22"/>
+	<SubTexture name="H 0000" x="136" y="46" width="16" height="22"/>
+	<SubTexture name="I 0000" x="153" y="46" width="16" height="22"/>
+	<SubTexture name="J 0000" x="170" y="46" width="16" height="22"/>
+	<SubTexture name="K 0000" x="187" y="46" width="16" height="22"/>	
+	<SubTexture name="L 0000" x="204" y="46" width="16" height="22"/>
+	<SubTexture name="M 0000" x="221" y="46" width="16" height="22"/>
+	<SubTexture name="N 0000" x="238" y="46" width="16" height="22"/>
+	<SubTexture name="O 0000" x="255" y="46" width="16" height="22"/>	
+	<SubTexture name="P 0000" x="272" y="46" width="16" height="22"/>
+	<SubTexture name="Q 0000" x="289" y="46" width="16" height="22"/>	
+	<SubTexture name="R 0000" x="306" y="46" width="16" height="22"/>
+	<SubTexture name="S 0000" x="323" y="46" width="16" height="22"/>	
+	<SubTexture name="T 0000" x="340" y="46" width="16" height="22"/>
+	<SubTexture name="U 0000" x="357" y="46" width="16" height="22"/>
+	<SubTexture name="V 0000" x="374" y="46" width="16" height="22"/>	
+	<SubTexture name="W 0000" x="391" y="46" width="16" height="22"/>
+	<SubTexture name="X 0000" x="408" y="46" width="16" height="22"/>	
+	<SubTexture name="Y 0000" x="425" y="46" width="16" height="22"/>
+	<SubTexture name="Z 0000" x="442" y="46" width="16" height="22"/>
+	<SubTexture name="[ 0000" x="459" y="46" width="16" height="22"/>
+	<SubTexture name="\ 0000" x="476" y="46" width="16" height="22"/>
+	<SubTexture name="] 0000" x="493" y="46" width="16" height="22"/>
+	<SubTexture name="^ 0000" x="510" y="46" width="16" height="22"/>
+	<SubTexture name="_ 0000" x="527" y="46" width="16" height="22"/>	
+	
+	<SubTexture name="` 0000" x="0" y="69" width="16" height="22"/>
+	<SubTexture name="a 0000" x="17" y="69" width="16" height="22"/>	
+	<SubTexture name="b 0000" x="34" y="69" width="16" height="22"/>	
+	<SubTexture name="c 0000" x="51" y="69" width="16" height="22"/>	
+	<SubTexture name="d 0000" x="68" y="69" width="16" height="22"/>	
+	<SubTexture name="e 0000" x="85" y="69" width="16" height="22"/>
+	<SubTexture name="f 0000" x="102" y="69" width="16" height="22"/>	
+	<SubTexture name="g 0000" x="119" y="69" width="16" height="22"/>
+	<SubTexture name="h 0000" x="136" y="69" width="16" height="22"/>
+	<SubTexture name="i 0000" x="153" y="69" width="16" height="22"/>
+	<SubTexture name="j 0000" x="170" y="69" width="16" height="22"/>
+	<SubTexture name="k 0000" x="187" y="69" width="16" height="22"/>	
+	<SubTexture name="l 0000" x="204" y="69" width="16" height="22"/>
+	<SubTexture name="m 0000" x="221" y="69" width="16" height="22"/>
+	<SubTexture name="n 0000" x="238" y="69" width="16" height="22"/>
+	<SubTexture name="o 0000" x="255" y="69" width="16" height="22"/>	
+	<SubTexture name="p 0000" x="272" y="69" width="16" height="22"/>
+	<SubTexture name="q 0000" x="289" y="69" width="16" height="22"/>	
+	<SubTexture name="r 0000" x="306" y="69" width="16" height="22"/>
+	<SubTexture name="s 0000" x="323" y="69" width="16" height="22"/>	
+	<SubTexture name="t 0000" x="340" y="69" width="16" height="22"/>
+	<SubTexture name="u 0000" x="357" y="69" width="16" height="22"/>
+	<SubTexture name="v 0000" x="374" y="69" width="16" height="22"/>	
+	<SubTexture name="w 0000" x="391" y="69" width="16" height="22"/>
+	<SubTexture name="x 0000" x="408" y="69" width="16" height="22"/>	
+	<SubTexture name="y 0000" x="425" y="69" width="16" height="22"/>
+	<SubTexture name="z 0000" x="442" y="69" width="16" height="22"/>
+	<SubTexture name="{ 0000" x="459" y="69" width="16" height="22"/>
+	<SubTexture name="| 0000" x="476" y="69" width="16" height="22"/>
+	<SubTexture name="} 0000" x="493" y="69" width="16" height="22"/>
+	<SubTexture name="~ 0000" x="510" y="69" width="16" height="22"/>
+
+	
+	<SubTexture name="nobreak space 0000" x="0" y="115" width="16" height="22"/>
+	<SubTexture name="inverted exclamation 0000" x="17" y="115" width="16" height="22"/>	
+	<SubTexture name="¢ 0000" x="34" y="115" width="16" height="22"/>	
+	<SubTexture name="£ 0000" x="51" y="115" width="16" height="22"/>	
+	<SubTexture name="¤ 0000" x="68" y="115" width="16" height="22"/>	
+	<SubTexture name="¥ 0000" x="85" y="115" width="16" height="22"/>
+	<SubTexture name="¦ 0000" x="102" y="115" width="16" height="22"/>	
+	<SubTexture name="§ 0000" x="119" y="115" width="16" height="22"/>
+	<SubTexture name="¨ 0000" x="136" y="115" width="16" height="22"/>
+	<SubTexture name="© 0000" x="153" y="115" width="16" height="22"/>
+	<SubTexture name="ª 0000" x="170" y="115" width="16" height="22"/>
+	<SubTexture name="« 0000" x="187" y="115" width="16" height="22"/>	
+	<SubTexture name="¬ 0000" x="204" y="115" width="16" height="22"/>
+	<SubTexture name="hyphen 0000" x="221" y="115" width="16" height="22"/>
+	<SubTexture name="® 0000" x="238" y="115" width="16" height="22"/>
+	<SubTexture name="¯ 0000" x="255" y="115" width="16" height="22"/>	
+	<SubTexture name="° 0000" x="272" y="115" width="16" height="22"/>
+	<SubTexture name="± 0000" x="289" y="115" width="16" height="22"/>	
+	<SubTexture name="² 0000" x="306" y="115" width="16" height="22"/>
+	<SubTexture name="³ 0000" x="323" y="115" width="16" height="22"/>	
+	<SubTexture name="´ 0000" x="340" y="115" width="16" height="22"/>
+	<SubTexture name="µ 0000" x="357" y="115" width="16" height="22"/>
+	<SubTexture name="¶ 0000" x="374" y="115" width="16" height="22"/>	
+	<SubTexture name="· 0000" x="391" y="115" width="16" height="22"/>
+	<SubTexture name="¸ 0000" x="408" y="115" width="16" height="22"/>	
+	<SubTexture name="¹ 0000" x="425" y="115" width="16" height="22"/>
+	<SubTexture name="º 0000" x="442" y="115" width="16" height="22"/>
+	<SubTexture name="» 0000" x="459" y="115" width="16" height="22"/>
+	<SubTexture name="¼ 0000" x="476" y="115" width="16" height="22"/>
+	<SubTexture name="½ 0000" x="493" y="115" width="16" height="22"/>
+	<SubTexture name="¾ 0000" x="510" y="115" width="16" height="22"/>
+	<SubTexture name="inverted question 0000" x="527" y="115" width="16" height="22"/>	
+	
+	<SubTexture name="À 0000" x="0" y="138" width="16" height="22"/>
+	<SubTexture name="Á 0000" x="17" y="138" width="16" height="22"/>	
+	<SubTexture name="Â 0000" x="34" y="138" width="16" height="22"/>	
+	<SubTexture name="Ã 0000" x="51" y="138" width="16" height="22"/>	
+	<SubTexture name="Ä 0000" x="68" y="138" width="16" height="22"/>	
+	<SubTexture name="Å 0000" x="85" y="138" width="16" height="22"/>
+	<SubTexture name="Æ 0000" x="102" y="138" width="16" height="22"/>	
+	<SubTexture name="Ç 0000" x="119" y="138" width="16" height="22"/>
+	<SubTexture name="È 0000" x="136" y="138" width="16" height="22"/>
+	<SubTexture name="É 0000" x="153" y="138" width="16" height="22"/>
+	<SubTexture name="Ê 0000" x="170" y="138" width="16" height="22"/>
+	<SubTexture name="Ë 0000" x="187" y="138" width="16" height="22"/>	
+	<SubTexture name="Ì 0000" x="204" y="138" width="16" height="22"/>
+	<SubTexture name="Í 0000" x="221" y="138" width="16" height="22"/>
+	<SubTexture name="Î 0000" x="238" y="138" width="16" height="22"/>
+	<SubTexture name="Ï 0000" x="255" y="138" width="16" height="22"/>	
+	<SubTexture name="Ð 0000" x="272" y="138" width="16" height="22"/>
+	<SubTexture name="Ñ 0000" x="289" y="138" width="16" height="22"/>	
+	<SubTexture name="Ò 0000" x="306" y="138" width="16" height="22"/>
+	<SubTexture name="Ó 0000" x="323" y="138" width="16" height="22"/>	
+	<SubTexture name="Ô 0000" x="340" y="138" width="16" height="22"/>
+	<SubTexture name="Õ 0000" x="357" y="138" width="16" height="22"/>
+	<SubTexture name="Ö 0000" x="374" y="138" width="16" height="22"/>	
+	<SubTexture name="× 0000" x="391" y="138" width="16" height="22"/>
+	<SubTexture name="Ø 0000" x="408" y="138" width="16" height="22"/>	
+	<SubTexture name="Ù 0000" x="425" y="138" width="16" height="22"/>
+	<SubTexture name="Ú 0000" x="442" y="138" width="16" height="22"/>
+	<SubTexture name="Û 0000" x="459" y="138" width="16" height="22"/>
+	<SubTexture name="Ü 0000" x="476" y="138" width="16" height="22"/>
+	<SubTexture name="Ý 0000" x="493" y="138" width="16" height="22"/>
+	<SubTexture name="Þ 0000" x="510" y="138" width="16" height="22"/>
+	<SubTexture name="ß 0000" x="527" y="138" width="16" height="22"/>	
+	
+	<SubTexture name="à 0000" x="0" y="161" width="16" height="22"/>
+	<SubTexture name="á 0000" x="17" y="161" width="16" height="22"/>	
+	<SubTexture name="â 0000" x="34" y="161" width="16" height="22"/>	
+	<SubTexture name="ã 0000" x="51" y="161" width="16" height="22"/>	
+	<SubTexture name="ä 0000" x="68" y="161" width="16" height="22"/>	
+	<SubTexture name="å 0000" x="85" y="161" width="16" height="22"/>
+	<SubTexture name="æ 0000" x="102" y="161" width="16" height="22"/>	
+	<SubTexture name="ç 0000" x="119" y="161" width="16" height="22"/>
+	<SubTexture name="è 0000" x="136" y="161" width="16" height="22"/>
+	<SubTexture name="é 0000" x="153" y="161" width="16" height="22"/>
+	<SubTexture name="ê 0000" x="170" y="161" width="16" height="22"/>
+	<SubTexture name="ë 0000" x="187" y="161" width="16" height="22"/>	
+	<SubTexture name="ì 0000" x="204" y="161" width="16" height="22"/>
+	<SubTexture name="í 0000" x="221" y="161" width="16" height="22"/>
+	<SubTexture name="î 0000" x="238" y="161" width="16" height="22"/>
+	<SubTexture name="ï 0000" x="255" y="161" width="16" height="22"/>	
+	<SubTexture name="ð 0000" x="272" y="161" width="16" height="22"/>
+	<SubTexture name="ñ 0000" x="289" y="161" width="16" height="22"/>	
+	<SubTexture name="ò 0000" x="306" y="161" width="16" height="22"/>
+	<SubTexture name="ó 0000" x="323" y="161" width="16" height="22"/>	
+	<SubTexture name="ô 0000" x="340" y="161" width="16" height="22"/>
+	<SubTexture name="õ 0000" x="357" y="161" width="16" height="22"/>
+	<SubTexture name="ö 0000" x="374" y="161" width="16" height="22"/>	
+	<SubTexture name="÷ 0000" x="391" y="161" width="16" height="22"/>
+	<SubTexture name="ø 0000" x="408" y="161" width="16" height="22"/>	
+	<SubTexture name="ù 0000" x="425" y="161" width="16" height="22"/>
+	<SubTexture name="ú 0000" x="442" y="161" width="16" height="22"/>
+	<SubTexture name="û 0000" x="459" y="161" width="16" height="22"/>
+	<SubTexture name="ü 0000" x="476" y="161" width="16" height="22"/>
+	<SubTexture name="ý 0000" x="493" y="161" width="16" height="22"/>
+	<SubTexture name="þ 0000" x="510" y="161" width="16" height="22"/>
+	<SubTexture name="ÿ 0000" x="527" y="161" width="16" height="22"/>	
+	
+	<SubTexture name="Ă 0000" x="34" y="184" width="16" height="22"/>
+	<SubTexture name="ă 0000" x="51" y="184" width="16" height="22"/>
+</TextureAtlas>
