@@ -22,6 +22,13 @@
 	<SubTexture name="colon 0000" x="96" y="16" width="8" height="8"/>
 	<SubTexture name="pointer 0000" x="104" y="16" width="8" height="8"/>
 	<SubTexture name="gariiright 0000" x="112" y="16" width="8" height="8"/>
+	
+	<SubTexture name="[ 0000" x="0" y="24" width="8" height="8"/>
+	<SubTexture name="] 0000" x="8" y="24" width="8" height="8"/>
+	<SubTexture name="( 0000" x="16" y="24" width="8" height="8"/>
+	<SubTexture name=") 0000" x="24" y="24" width="8" height="8"/>
+	<SubTexture name="comma 0000" x="32" y="24" width="8" height="8"/>
+	<SubTexture name="question 0000" x="40" y="24" width="8" height="8"/>
 
 	<SubTexture name="A 0000" x="0" y="8" width="8" height="8"/>
 	<SubTexture name="B 0000" x="8" y="8" width="8" height="8"/>
